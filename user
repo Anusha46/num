@@ -1,0 +1,18 @@
+input:
+#include<stdio.h>
+int main()
+{
+    int num;
+    printf("enter a integer");
+    scanf("%d",&num);
+    printf("entered number is: %d",num);
+    return 0;
+}
+
+output:
+enter a integer3                                                                                                               
+entered number is: 3                                                                                                           
+                                                                                                                               
+...Program finished with exit code 0                                                                                           
+Press ENTER to exit console.                                                                                                   
+                      
